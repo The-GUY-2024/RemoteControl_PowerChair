@@ -4,9 +4,9 @@
 
 
 <h4> 
-  | <a href=""> Home </a> |
-  | <a href=""> Structure </a> |
-  | <a href=""> Instruction </a> |
+  | <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair"> Home </a> |
+   <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair#structure"> Structure </a> 
+  | <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair#instructions"> Instruction </a> |
 </h4>
 
 
