@@ -6,7 +6,7 @@
 <h4> 
   | <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair"> Home </a> |
    <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair#structure"> Structure </a> 
-  | <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair#instructions"> Instruction </a> |
+  | <a href="https://github.com/The-GUY-2024/RemoteControl_PowerChair#instructions"> Instructions </a> |
 </h4>
 
 
